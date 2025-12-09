@@ -5,6 +5,9 @@ An AI-powered news analysis system that retrieves technology articles, enables s
 ## Colab Link
 https://colab.research.google.com/drive/1BVgYnpfCmaCokEHSt9dL47DjziTT8nn0?usp=sharing
 
+## Video link
+https://drive.google.com/file/d/1YYscs_qC2-t1McnWBjY0JgdyR-45pDfl/view?usp=sharing
+
 ## Quick Start
 
 1. Click the `.ipynb` notebook file in this repository
