@@ -2,6 +2,9 @@
 
 An AI-powered news analysis system that retrieves technology articles, enables semantic search, generates conversational answers using a local LLM, and visualizes trending topics.
 
+## Colab Link
+https://colab.research.google.com/drive/1BVgYnpfCmaCokEHSt9dL47DjziTT8nn0?usp=sharing
+
 ## Quick Start
 
 1. Click the `.ipynb` notebook file in this repository
